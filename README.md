@@ -1,1 +1,1 @@
-# study_spring
+# FastCampus Spring
